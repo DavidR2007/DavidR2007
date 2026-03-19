@@ -39,7 +39,7 @@ Full CRUD system with ORM, binary save system, and interactive menu.
 
 ## 🛠️ Skills
 
-- Clean code & OOP design  
+- Clean code 
 - Git & GitHub workflow  
 - SQL schema design  
 - Debugging & problem solving  
