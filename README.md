@@ -9,17 +9,10 @@
   <img src="https://img.shields.io/badge/Open_to_Work-4C9AFF?style=for-the-badge&logoColor=white&labelColor=1A1B27" />
 </div>
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <img src="https://komarev.com/ghpvc/?username=DavidR2007&color=1a1b27&label=Profile%20Views&labelColor=0f3460&style=for-the-badge" />
-    </td>
-    <td align="right">
-      <img src="https://img.shields.io/badge/Status-Active-0f3460?style=for-the-badge&labelColor=1a1b27" />
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DavidR2007&color=1a1b27&label=Profile%20Views&labelColor=0f3460&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-0f3460?style=for-the-badge&labelColor=1a1b27" />
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
