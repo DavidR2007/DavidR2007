@@ -39,7 +39,6 @@ I'm a junior developer who loves learning and creating. I work mainly with C++, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DavidR2007&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidR2007&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 <img src="https://streak-stats.demolab.com?user=DavidR2007&theme=tokyonight&hide_border=true" height="180"/>
 
