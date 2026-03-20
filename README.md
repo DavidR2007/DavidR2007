@@ -79,15 +79,11 @@ Full CRUD system with ORM, binary save system, and interactive menu.
 </div>
 </div>
 
-## 📊 GitHub Stats
 
-<div align="center">
+# 
+![](https://nirzak-streak-stats.vercel.app/?user=DavidR2007&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidR2007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidR2007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=DavidR2007&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
