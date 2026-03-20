@@ -14,7 +14,9 @@
   <img src="https://img.shields.io/badge/Status-Active-0f3460?style=for-the-badge&labelColor=1a1b27" />
 </div>
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+</div>
 
 ## 👨‍💻 About Me
 I'm a junior developer who loves learning and creating. I work mainly with C++, SQL, C#, and web technologies like HTML, CSS, and JavaScript.
@@ -23,10 +25,11 @@ I'm a junior developer who loves learning and creating. I work mainly with C++, 
 - Advanced C++ OOP concepts: class design, inheritance models, and code organization  
 - Relational database development with PostgreSQL (schemas, relationships, queries)  
 - Unreal Engine Blueprint scripting for gameplay mechanics  
-- Full game development workflow for my final project  
-
+- Full game development workflow for my final project
+  
+<div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
+</div>
 ## 🧩 Featured Projects
 
 ### 🔹 Web_Rep
@@ -34,8 +37,9 @@ Modern responsive website with dark mode, navbar animations, and custom componen
 
 ### 🔹 App_BD (C++ + PostgreSQL)
 Full CRUD system with ORM, binary save system, and interactive menu.
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+</div>
 
 ## 🛠️ Skills
 
@@ -43,9 +47,11 @@ Full CRUD system with ORM, binary save system, and interactive menu.
 - Git & GitHub workflow  
 - SQL schema design  
 - Debugging & problem solving  
-- Teamwork & communication  
+- Teamwork & communication
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+</div>
 
 ## 🚀 Technologies I Use
 
@@ -57,9 +63,20 @@ Full CRUD system with ORM, binary save system, and interactive menu.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" style="margin: 15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" style="margin: 15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" style="margin: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"  width="60" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg"  width="60" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"  width="60" style="margin: 15px;" />
+                                 
+  
+          
+          
 </div>
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+</div>
+</div>
 
 ## 📊 GitHub Stats
 
@@ -71,7 +88,9 @@ Full CRUD system with ORM, binary save system, and interactive menu.
 
 </div>
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+</div>
 
 ## 📬 Contact Me
 
