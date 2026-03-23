@@ -30,7 +30,8 @@ I'm a junior developer who loves learning and creating. I work mainly with C++, 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 </div>
-## 🧩 Featured Projects
+
+ ## 🧩 Featured Projects
 
 ### 🔹 Web_Rep
 Modern responsive website with dark mode, navbar animations, and custom components.
