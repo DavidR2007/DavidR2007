@@ -79,7 +79,7 @@ Full CRUD system with ORM, binary save system, and interactive menu.
 
   <br><br>
 
-  <img src="https://github-readme-stats-git-master-davidr2007s-projects.vercel.app/api/top-langs/?username=DavidR2007&theme=dark&hide_border=false&layout=compact&cache_seconds=99999&refresh=2" />
+  <!--<img src="https://github-readme-stats-git-master-davidr2007s-projects.vercel.app/api/top-langs/?username=DavidR2007&theme=dark&hide_border=false&layout=compact&cache_seconds=99999&refresh=2" /> -->
 
 </div>
 
