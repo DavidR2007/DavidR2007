@@ -29,7 +29,7 @@ I'm a junior developer who loves learning and creating. I work mainly with C++, 
 
 ## 🧩 Featured Projects
 
-### 🔹 apeiction-git.github.io
+### 🔹 apeiction-git.github.io ( STILL WORKING )
 Modern responsive website, navbar animations, and custom components based on a personal project.
 
 ### 🔹 App_BD (C++ + PostgreSQL)
