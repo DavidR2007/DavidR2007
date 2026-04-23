@@ -29,8 +29,8 @@ I'm a junior developer who loves learning and creating. I work mainly with C++, 
 
 ## 🧩 Featured Projects
 
-### 🔹 Web_Rep
-Modern responsive website with dark mode, navbar animations, and custom components.
+### 🔹 apeiction-git.github.io
+Modern responsive website, navbar animations, and custom components based on a personal project.
 
 ### 🔹 App_BD (C++ + PostgreSQL)
 Full CRUD system with ORM, binary save system, and interactive menu.
